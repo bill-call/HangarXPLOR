@@ -1,3 +1,3 @@
 
 /* eslint no-console: "off" */
-console.log('Hi');
+console.log('Hi!');
